@@ -1,2 +1,3 @@
 # FirstRepository
-My first repository
+I've just made my first commits. 
+
